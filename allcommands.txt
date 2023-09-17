@@ -6,3 +6,6 @@
 //in vs-code promt/terminal
 
 >conda create -p venv python==3.8 -y // -p -> packages , venv->any name u give ,-y->default yes.
+
+//after step 1 - setup.py and requirements.txt
+pip install -r requirements.txt //it will take long time and internet data , dont run it again and again.
