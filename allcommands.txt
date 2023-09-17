@@ -1,0 +1,8 @@
+//open cmd promt
+
+>cd copyedpath
+>code . //it will open vs code for you.
+
+//in vs-code promt/terminal
+
+>conda create -p venv python==3.8 -y // -p -> packages , venv->any name u give ,-y->default yes.
